@@ -1,7 +1,5 @@
 # Onboarding - Countdown Timer
 
-# onboarding
-
 ## 1. Setup Development Environment and Tools
 
 - ReactJS
