@@ -18,10 +18,9 @@
 
 ### Guidelines
 
-1. Codebase should be written in a Github repository.
-2. Source files should be in a separate directory named `src/` so that they can be isolated for building/compiling.
-3. Server should be built using Express or Koa framework.
-4. Feel free to use appropriate and useful npm modules for your project.
+1. Source files should be in a separate directory named `src/` so that they can be isolated for building/compiling.
+2. Server should be built using Express or Koa framework.
+3. Feel free to use appropriate and useful npm modules for your project.
 
 ### API Specifications
 
