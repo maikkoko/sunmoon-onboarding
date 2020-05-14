@@ -8,12 +8,6 @@
 - vscode or any IDE you like
 - Github
 
-## 2. Front-End
-
-### Guidelines
-
-1. Front-end should be built using ReactJS.
-
 ## 2. Server
 
 ### Guidelines
@@ -97,3 +91,11 @@ URL: /api/logs/:id
   "message": deleted
 }
 ```
+
+
+## 3. Front-End
+
+### Guidelines
+
+1. Front-end should be built using ReactJS.
+2. You can use any state management solution (redux, context api, etc.)
