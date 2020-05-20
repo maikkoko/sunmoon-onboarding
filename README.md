@@ -99,3 +99,11 @@ URL: /api/logs/:id
 
 1. Front-end should be built using ReactJS.
 2. You can use any state management solution (redux, context api, etc.)
+
+* Frontend folder: client
+  - it is included in "sunmoon-onboarding" directory
+### HOW TO RUN
+- execute command: "npm install" for client (Frontend)
+- execute command: "npm install" for sunmoon-onboarding (Backend)
+- execute command: "npm run dev" in terminal in sunmoon-onboarding directory
+
