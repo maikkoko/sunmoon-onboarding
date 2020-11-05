@@ -1,0 +1,32 @@
+{
+  "name": "sunmoon-onboarding",
+  "version": "1.0.0",
+  "description": "MERN Stack Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-watch": "nodemon index.js",
+    "dev": "concurrently \"yarn run start-watch\" \"cd client && yarn start\"" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonLuwi91/sunmoon-onboarding.git"
+  },
+  "author": "Luwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonLuwi91/sunmoon-onboarding/issues"
+  },
+  "homepage": "https://github.com/nelsonLuwi91/sunmoon-onboarding#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
